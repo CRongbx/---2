@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="习题2-4 子序列的和.cpp" />
+    <ClCompile Include="程序3-4 竖式问题.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CDDCF787-EF48-400E-8C2A-7893155A696B}</ProjectGuid>

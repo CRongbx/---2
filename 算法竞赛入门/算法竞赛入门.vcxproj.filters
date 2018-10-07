@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="习题2-4 子序列的和.cpp">
+    <ClCompile Include="程序3-4 竖式问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
